@@ -7,8 +7,8 @@
     "start": "yarn build && node index.js",
     "build": "webpack --config webpack.config.js"
   },
-  "author": "Rohit kumar",
-  "license": "MIT",
+  "author": "Pankaj Verma",
+  "license": "Free",
   "dependencies": {
     "@babel/register": "^7.8.6",
     "express": "^4.17.1",
